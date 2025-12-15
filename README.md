@@ -1,76 +1,76 @@
-# 👋 こんにちは、Tatsuです
+# Hi, I'm Tatsu 👋
 
-Python開発者として、実用的なWebアプリケーションとAPIを構築しています。  
-ブロックチェーン技術にも取り組んでおり、DeFi・NFT分野の開発経験があります。
+## 🔭 Blockchain & DeFi Developer
 
-## 🚀 スキル
+Passionate about building decentralized applications with focus on DeFi protocols and NFT implementations.
 
-### ブロックチェーン
-- **Solidity** - スマートコントラクト開発
-- **Hardhat** - 開発環境
-- **OpenZeppelin** - セキュリティ標準実装
+Currently working towards becoming a freelance blockchain engineer, specializing in Solidity smart contract development.
 
-### Python
-- **openpyxl** - Excel自動化
-- **pandas** - データ処理・分析
-- **matplotlib** - データ可視化
-- **BeautifulSoup** - Webスクレイピング
-- **Flask** - Web API開発
+### 🚀 Featured Projects
 
-## 📊 完成プロジェクト
+#### [SimpleDEX](https://github.com/code-craftsman369/SimpleDEX)
+A decentralized exchange implementing Uniswap V2's Constant Product AMM (x*y=k) algorithm
+- ✅ Deployed on Sepolia Testnet
+- ✅ Full test coverage
+- 💰 0.3% trading fee for liquidity providers
+- 🛡️ Security: OpenZeppelin contracts, ReentrancyGuard
 
-### ブロックチェーン
+#### [Ryu369Token](https://github.com/code-craftsman369/Ryu369Token)
+ERC-20 token implementation with standard functionality
+- 🪙 1,000,000 RYU369 total supply
+- ✅ Deployed and verified on Sepolia
 
-**1. [SimpleDEX](https://github.com/code-craftsman369/SimpleDEX)**  
-技術: Solidity, Hardhat, OpenZeppelin  
-機能: AMM実装、流動性管理、Sepolia稼働中  
-[Zenn記事](https://zenn.dev/codecraftsman/articles/2f3f828416c7af)
+#### [Ryu369NFT](https://github.com/code-craftsman369/Ryu369NFT)
+ERC-721 NFT collection with minting capabilities
+- 🎨 NFT collection on Ethereum
+- ✅ Deployed on Sepolia Testnet
 
-**2. [Ryu369Token](https://github.com/code-craftsman369/Ryu369Token)**  
-技術: Solidity, OpenZeppelin  
-機能: ERC-20トークン、Sepoliaデプロイ済み
+### 💻 Tech Stack
 
-**3. [Ryu369NFT](https://github.com/code-craftsman369/Ryu369NFT)**  
-技術: Solidity, OpenZeppelin  
-機能: ERC-721 NFTコレクション
+**Blockchain Development**
+- Solidity (Smart Contracts)
+- Hardhat (Development Framework)
+- OpenZeppelin (Security & Standards)
+- Web3.js / Ethers.js
 
-### Python業務自動化
+**Backend & Automation**
+- Python (pandas, openpyxl, BeautifulSoup)
+- API Development
+- Data Processing & Automation
 
-**4. [Excel統合ツール](https://github.com/code-craftsman369/excel-integration-tool)**  
-技術: openpyxl, pandas  
-機能: 複数Excelファイル統合、自動集計
+**Tools & Environment**
+- Git & GitHub
+- VS Code
+- Ethereum Sepolia Testnet
+- MetaMask
 
-**5. [業務自動化ツール](https://github.com/code-craftsman369/python-business-automation)**  
-技術: pandas, matplotlib, openpyxl  
-機能: CSV/Excel処理、グラフ自動生成、レポート作成
+### 🌱 Currently Learning
 
-**6. [企業スポンサー候補リスト収集](https://github.com/code-craftsman369/kitakyushu-sponsor-scraper)**  
-技術: BeautifulSoup, pandas  
-機能: 459件自動収集、71.2%連絡先取得率  
-[Zenn記事](https://zenn.dev/codecraftsman/articles/7376d371173996)
+- Advanced DeFi protocols (Lending, Yield Farming)
+- NFT marketplace development
+- Cross-chain solutions
+- Layer 2 scaling solutions
 
-## 💼 提供できるサービス
+### 📊 GitHub Stats
 
-### ブロックチェーン開発
-- 🔷 スマートコントラクト開発（ERC-20/721）
-- 🔷 DeFiプロトコル開発（DEX, Staking等）
-- 🔷 セキュリティ対策実装
-- 🔷 テストネットデプロイ
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-craftsman369&show_icons=true&theme=tokyonight)
 
-### Python業務自動化
-- 📊 Excel/CSV自動処理
-- 📊 複数ファイル統合・集計
-- 📊 グラフ・レポート自動生成
-- 📊 Webスクレイピング
-- 📊 データ収集・分析ツール
+### 📫 Connect with Me
 
-## 📫 連絡先
+- **X (Twitter)**: [@web3_builder369](https://x.com/web3_builder369)
+- **Zenn**: [@codecraftsman](https://zenn.dev/codecraftsman)
+- **GitHub**: [@code-craftsman369](https://github.com/code-craftsman369)
 
-案件のご相談はGitHubのIssuesまたはXのDMでお気軽にどうぞ。
+### 💡 Open to Collaboration
 
-**X (Twitter):** [@web3_builder369](https://twitter.com/web3_builder369)  
-**GitHub:** [@code-craftsman369](https://github.com/code-craftsman369)
+I'm open to collaborating on:
+- DeFi protocol development
+- NFT projects
+- Smart contract auditing
+- Blockchain education content
+
+Feel free to reach out if you'd like to work together!
 
 ---
 
-💡 From [@code-craftsman369](https://github.com/code-craftsman369)
+⭐ If you find my work interesting, consider giving my repositories a star!
