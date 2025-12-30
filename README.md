@@ -1,88 +1,77 @@
 # Hi, I'm Tatsu 👋
 
-## 🛠️ Blockchain & ML Developer | DeFi | Data Science
+## 🛠️ Blockchain & ML Developer | DeFi | Data Science | Business Automation
 
-Passionate about building decentralized applications and machine learning solutions.
+Passionate about building decentralized applications, machine learning solutions, and business automation tools. Currently working towards becoming a freelance blockchain and ML engineer, specializing in Solidity smart contracts, data-driven applications, and Python automation.
 
-Currently working towards becoming a freelance blockchain and ML engineer, specializing in Solidity smart contracts and data-driven applications.
+---
 
 ### 🚀 Featured Projects
 
-#### [SimpleDEX](https://github.com/code-craftsman369/SimpleDEX)
-A decentralized exchange implementing Uniswap V2's Constant Product AMM (x*y=k) algorithm
+#### **Blockchain & DeFi**
+- 🏦 [**DeFi Portfolio Tracker**](https://github.com/code-craftsman369/defi-portfolio-tracker) - Multi-wallet crypto balance aggregator with Web3.py and real-time price feeds
+- 💱 [**SimpleDEX**](https://github.com/code-craftsman369/SimpleDEX) - Uniswap V2 AMM implementation (Deployed on Sepolia)
+- 🪙 [**Ryu369Token**](https://github.com/code-craftsman369/Ryu369Token) - ERC-20 token (1M supply)
+- 🎨 [**Ryu369NFT**](https://github.com/code-craftsman369/Ryu369NFT) - ERC-721 NFT collection
 
-- ✅ Deployed on Sepolia Testnet
-- ✅ Full test coverage
-- 💰 0.3% trading fee for liquidity providers
-- 🛡️ Security: OpenZeppelin contracts, ReentrancyGuard
+#### **Machine Learning & AI**
+- 📈 [**Cryptocurrency Price Prediction**](https://github.com/code-craftsman369/crypto-price-prediction-lstm) - LSTM neural network (2.60% MAPE accuracy)
+- 🏨 [**Hotel Cancellation Predictor**](https://github.com/code-craftsman369/hotel-cancellation-predictor) - Deep Learning model (84.2% accuracy)
 
-#### [Ryu369Token](https://github.com/code-craftsman369/Ryu369Token)
-ERC-20 token implementation with standard functionality
+#### **Business Automation & Web Scraping**
+- 🛒 [**E-commerce Price Monitor**](https://github.com/code-craftsman369/ecommerce-price-monitor) - Automated price tracking with data visualization
+- 📄 [**Invoice Generator**](https://github.com/code-craftsman369/invoice-generator) - Automated Excel invoice creation system
 
-- 🪙 1,000,000 RYU369 total supply
-- ✅ Deployed and verified on Sepolia
-
-#### [Ryu369NFT](https://github.com/code-craftsman369/Ryu369NFT)
-ERC-721 NFT collection with minting capabilities
-
-- 🎨 NFT collection on Ethereum
-- ✅ Deployed on Sepolia Testnet
+---
 
 ### 💻 Tech Stack
 
 **Blockchain Development**
-- Solidity (Smart Contracts)
-- Hardhat (Development Framework)
-- OpenZeppelin (Security & Standards)
-- Web3.js / Ethers.js
+- Solidity, Hardhat, OpenZeppelin
+- Web3.py, Ethers.js
+- DeFi Protocols (AMM, Lending)
 
 **Machine Learning & Data Science**
-- Python (pandas, scikit-learn, Seaborn, Matplotlib)
-- Random Forests, Decision Trees, Model Validation
-- Data analysis & visualization
-- Kaggle Certified: [Intro to Machine Learning](https://www.kaggle.com/learn/certification/freelancerpython/intro-to-machine-learning) & [Data Visualization](https://www.kaggle.com/learn/certification/freelancerpython/data-visualization)
+- Python (TensorFlow, Keras, scikit-learn)
+- LSTM, Deep Learning, Time Series Analysis
+- Pandas, Matplotlib, Plotly, Seaborn
+- **Kaggle Certified**: [Intro to ML](https://www.kaggle.com/learn/certification/freelancerpython/intro-to-machine-learning) & [Data Visualization](https://www.kaggle.com/learn/certification/freelancerpython/data-visualization)
 
-**Backend & Automation**
-- Python (pandas, openpyxl, BeautifulSoup)
-- API Development
-- Data Processing & Automation
+**Business Automation**
+- Python (BeautifulSoup, Selenium, openpyxl)
+- Web Scraping & Data Processing
+- API Development & Integration
 
-**Tools & Environment**
-- Git & GitHub
-- VS Code
-- Ethereum Sepolia Testnet
-- MetaMask
+---
 
 ### 🌱 Currently Learning
+- Advanced DeFi protocols & Layer 2 solutions
+- Cross-chain development
+- Advanced ML techniques & Feature Engineering
+- Smart contract security & auditing
 
-- Advanced DeFi protocols (Lending, Yield Farming)
-- NFT marketplace development
-- Cross-chain solutions
-- Layer 2 scaling solutions
-- Intermediate Machine Learning
-- Feature Engineering
-- Advanced Data Science techniques
+---
 
 ### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-craftsman369&show_icons=true&theme=tokyonight)
 
-### 📫 Connect with Me
+---
 
+### 📫 Connect with Me
 - **X (Twitter)**: [@web3_builder369](https://x.com/web3_builder369)
-- **Zenn**: [@codecraftsman](https://zenn.dev/codecraftsman)
 - **GitHub**: [@code-craftsman369](https://github.com/code-craftsman369)
 
+---
+
 ### 💡 Open to Collaboration
+I'm open to freelance opportunities and collaborations on:
+- ✅ DeFi protocol development
+- ✅ Smart contract development & auditing
+- ✅ Machine learning & data science projects
+- ✅ Business automation & web scraping
+- ✅ NFT projects
 
-I'm open to collaborating on:
-
-- DeFi protocol development
-- NFT projects
-- Smart contract auditing
-- Machine learning projects
-- Data analysis & visualization
-- Blockchain education content
+**Available for freelance work starting April 2026**
 
 Feel free to reach out if you'd like to work together!
 
