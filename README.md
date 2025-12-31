@@ -1,12 +1,16 @@
 # Hi, I'm Tatsu 👋
 
-## 🛠️ Blockchain & ML Developer | DeFi | Data Science | Business Automation
+## 🛠️ Full Stack Developer | Blockchain & ML | Bot Development | Business Automation
 
-Passionate about building decentralized applications, machine learning solutions, and business automation tools. Currently working towards becoming a freelance blockchain and ML engineer, specializing in Solidity smart contracts, data-driven applications, and Python automation.
+Passionate about building full-stack web applications, decentralized systems, machine learning solutions, and automation tools. Freelance developer specializing in Python, Solidity smart contracts, REST APIs, and data-driven applications.
 
 ---
 
 ### 🚀 Featured Projects
+
+#### **Full Stack & API Development**
+- 🚀 [**Task Management REST API**](https://github.com/code-craftsman369/task-management-api) - Full-stack web app with Flask backend and interactive JavaScript dashboard
+- 🤖 [**Telegram Crypto Price Alert Bot**](https://github.com/code-craftsman369/telegram-crypto-price-bot) - Real-time cryptocurrency tracking via Telegram with CoinGecko API
 
 #### **Blockchain & DeFi**
 - 🏦 [**DeFi Portfolio Tracker**](https://github.com/code-craftsman369/defi-portfolio-tracker) - Multi-wallet crypto balance aggregator with Web3.py and real-time price feeds
@@ -26,6 +30,17 @@ Passionate about building decentralized applications, machine learning solutions
 
 ### 💻 Tech Stack
 
+**Full Stack Development**
+- Backend: Python, Flask, REST API design
+- Frontend: HTML5, CSS3, JavaScript
+- Database: SQLite, JSON storage
+- API Integration & Development
+
+**Bot Development**
+- Telegram Bot API (python-telegram-bot)
+- Discord Bot (discord.py)
+- Automated notifications & alerts
+
 **Blockchain Development**
 - Solidity, Hardhat, OpenZeppelin
 - Web3.py, Ethers.js
@@ -40,14 +55,14 @@ Passionate about building decentralized applications, machine learning solutions
 **Business Automation**
 - Python (BeautifulSoup, Selenium, openpyxl)
 - Web Scraping & Data Processing
-- API Development & Integration
+- Email & Task Automation
 
 ---
 
 ### 🌱 Currently Learning
+- Advanced full-stack development (React, Next.js)
+- Microservices architecture
 - Advanced DeFi protocols & Layer 2 solutions
-- Cross-chain development
-- Advanced ML techniques & Feature Engineering
 - Smart contract security & auditing
 
 ---
@@ -63,15 +78,17 @@ Passionate about building decentralized applications, machine learning solutions
 
 ---
 
-### 💡 Open to Collaboration
-I'm open to freelance opportunities and collaborations on:
+### 💡 Open to Freelance Opportunities
+Available for freelance projects in:
+- ✅ Full-stack web application development
+- ✅ REST API development & integration
+- ✅ Bot development (Telegram, Discord)
 - ✅ DeFi protocol development
 - ✅ Smart contract development & auditing
 - ✅ Machine learning & data science projects
 - ✅ Business automation & web scraping
-- ✅ NFT projects
 
-**Available for freelance work starting April 2026**
+**Available for freelance work starting January 2026**
 
 Feel free to reach out if you'd like to work together!
 
